@@ -1,20 +1,13 @@
 ## Hi there 👋
+I am, Arfiko or iFIKOZ. 
+Welcome to my github page
 
-
-##Learner
 
 ![Logo](https://media.discordapp.net/attachments/1171952991222370385/1384119425501888522/github_banner.png?ex=6851452a&is=684ff3aa&hm=e1e606d72261eb8b9bbdb75c6fb4a1b2813880f4fc2abb4c77e3172731c27d74&=&format=webp&quality=lossless)
-<!--
-**iFIKOZ/iFIKOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I do
+- Keyboard design
+- Personal project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me on
+<a href="https://www.instagram.com/fikoz__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fikoz__" height="30" width="40" /></a>

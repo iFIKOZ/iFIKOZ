@@ -3,7 +3,7 @@ I am, Arfiko or iFIKOZ.
 Welcome to my github page
 
 
-![Logo](https://media.discordapp.net/attachments/1171952991222370385/1384119425501888522/github_banner.png?ex=6851452a&is=684ff3aa&hm=e1e606d72261eb8b9bbdb75c6fb4a1b2813880f4fc2abb4c77e3172731c27d74&=&format=webp&quality=lossless)
+![Logo](https://github.com/iFIKOZ/iFIKOZ/blob/main/github%20banner.png)
 
 ## I do
 - Keyboard design
